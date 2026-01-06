@@ -1,11 +1,11 @@
-# Admin-Work-Samples
-Examples of administrative tasks, workflow organization, and client support demonstrating professional skills.
+# Admin Work Samples
 
-This repository contains examples of administrative and executive support tasks I handle, including:
+Welcome! This repository showcases examples of my administrative and executive support skills, including:
 
-- Email and client correspondence filing
-- Task tracking and workflow management
-- Scheduling and calendar organization
-- Documentation and standard operating procedures (SOPs)
+- **Task Tracking:** Realistic daily task tracker showing workflow management, email filing, and client follow-ups. (`Task_Tracker.csv`)  
+- **SOP Documentation:** Standard Operating Procedure for email filing, highlighting organization, attention to detail, and process orientation. (`Email_Filing_SOP.md`)
 
-These examples showcase my skills as a Secretary, Administrative Assistant, and Client Experience Specialist, demonstrating close attention to detail, organization, and remote readiness.
+These samples reflect my experience as a Secretary, Administrative Assistant, Client Experience Specialist, and Customer Service Representative.  
+They demonstrate my ability to stay organized, manage tasks efficiently, and provide professional support in remote settings.
+
+**Prepared by:** Jessa Mae Lizaso
