@@ -1,6 +1,5 @@
 # Admin-Work-Samples
 Examples of administrative tasks, workflow organization, and client support demonstrating professional skills.
-# Admin Work Samples
 
 This repository contains examples of administrative and executive support tasks I handle, including:
 
